@@ -208,6 +208,7 @@ Thumbs.db
 
 # Environments
 .env
+.idea
 
 # Spyder project settings
 
